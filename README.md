@@ -1,5 +1,7 @@
 # Agent Governance Bootstrap
 
+[English](./README.md) | [繁體中文](./README.zh-TW.md)
+
 A reusable, discovery-first prompt for adding a **Minimum Viable Agent Governance** layer to an existing software repository before an AI coding agent makes meaningful changes.
 
 > The goal is not to make the agent remember more.  
@@ -91,13 +93,26 @@ Durable project knowledge should live in a versioned source of truth, not only i
 
 These categories are starting points, not universal policy. Adapt them to the repository.
 
+## Languages
+
+- English: [README.md](./README.md)
+- 繁體中文: [README.zh-TW.md](./README.zh-TW.md)
+
+Localized documents:
+
+- [Governance Bootstrap Prompt — 繁體中文](./GOVERNANCE_BOOTSTRAP_PROMPT.zh-TW.md)
+- [Minimum Governance — 繁體中文](./MINIMUM_GOVERNANCE.zh-TW.md)
+- [Example Output — 繁體中文](./examples/sample-output.zh-TW.md)
+
+English files remain the canonical source for future translations.
+
 ## Example
 
 See [examples/sample-output.md](./examples/sample-output.md) for an intentionally generic Phase 1 result.
 
 ## Status
 
-**v0.1.0** — initial public bootstrap.
+**v0.2.0** — bilingual English / Traditional Chinese documentation.
 
 This repository is intentionally small. The objective is to make the method reusable without turning governance into another documentation burden.
 
